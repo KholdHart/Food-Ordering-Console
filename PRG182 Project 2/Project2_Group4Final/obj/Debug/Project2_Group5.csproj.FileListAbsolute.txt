@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\PROJECTS\Coding Project\Project2_Group5\bin\Debug\Project2_Group5.exe.config
+C:\Users\Administrator\Desktop\PROJECTS\Coding Project\Project2_Group5\bin\Debug\Project2_Group5.exe
+C:\Users\Administrator\Desktop\PROJECTS\Coding Project\Project2_Group5\bin\Debug\Project2_Group5.pdb
+C:\Users\Administrator\Desktop\PROJECTS\Coding Project\Project2_Group5\obj\Debug\Project2_Group5.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PROJECTS\Coding Project\Project2_Group5\obj\Debug\Project2_Group5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\PROJECTS\Coding Project\Project2_Group5\obj\Debug\Project2_Group5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PROJECTS\Coding Project\Project2_Group5\obj\Debug\Project2_Group5.exe
+C:\Users\Administrator\Desktop\PROJECTS\Coding Project\Project2_Group5\obj\Debug\Project2_Group5.pdb
+C:\Users\TEMP.DESKTOP-3M0HQQ7.001\Downloads\Project2_Group5 - Copy\bin\Debug\Project2_Group5.exe.config
+C:\Users\TEMP.DESKTOP-3M0HQQ7.001\Downloads\Project2_Group5 - Copy\bin\Debug\Project2_Group5.exe
+C:\Users\TEMP.DESKTOP-3M0HQQ7.001\Downloads\Project2_Group5 - Copy\bin\Debug\Project2_Group5.pdb
+C:\Users\TEMP.DESKTOP-3M0HQQ7.001\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.csproj.AssemblyReference.cache
+C:\Users\TEMP.DESKTOP-3M0HQQ7.001\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.csproj.SuggestedBindingRedirects.cache
+C:\Users\TEMP.DESKTOP-3M0HQQ7.001\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.DESKTOP-3M0HQQ7.001\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.exe
+C:\Users\TEMP.DESKTOP-3M0HQQ7.001\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.pdb
+C:\Users\Administrator\Downloads\Project2_Group5 - Copy\bin\Debug\Project2_Group5.exe.config
+C:\Users\Administrator\Downloads\Project2_Group5 - Copy\bin\Debug\Project2_Group5.exe
+C:\Users\Administrator\Downloads\Project2_Group5 - Copy\bin\Debug\Project2_Group5.pdb
+C:\Users\Administrator\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.exe
+C:\Users\Administrator\Downloads\Project2_Group5 - Copy\obj\Debug\Project2_Group5.pdb
