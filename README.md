@@ -1,4 +1,4 @@
-# PRG182-Project2
+# Food Ordering Console
 
 A console-based food ordering system built with C#. This project is part of the PRG182 course and demonstrates essential programming concepts, including menus, enums, lists, and basic user interactions.
 
